@@ -1,0 +1,12 @@
+{
+  "id": "RevertTheSealedThrone",
+  "name": "回调王座（Revert The Sealed Throne）",
+  "author": "再玩小卡组找人弄你",
+  "description": "将储君的先古卡“封印王座”回调至106版本之前的效果，升级获得“固有”效果，而非减费。",
+  "version": "1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "min_game_version": "0.107.1",
+  "dependencies": [],
+  "affects_gameplay": true
+}
